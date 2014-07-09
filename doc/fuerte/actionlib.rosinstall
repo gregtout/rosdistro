@@ -1,4 +1,4 @@
 - hg:
     local-name: actionlib
-    uri: https://kforge.ros.org/common/actionlib
+    uri: https://kforge.ros.org/common/action 
     version: fuerte-devel
